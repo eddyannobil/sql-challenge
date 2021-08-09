@@ -1,20 +1,18 @@
 # SQL Challenge
 
-In this assignment involves the design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words,it performs:
+This assignment involves the design of the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words,it performs:
+
 1.Data Engineering
 
 2.Data Analysis
 
-An inspection of the CSVs and a sketch of an ERD of the tables is done
+The assignment follows the following processes:
+-An inspection of the CSVs and a sketch of an ERD of the table is done
 
-Data Engineering
+-Data Engineering
+  Using the information, a table schema for each of the six CSV files is created and each CSV file is imported into the corresponding SQL table. 
 
-
-Using the information a table schema for each of the six CSV files is created and each CSV file is imported into the corresponding SQL table. 
-
-
-
-Data Analysis
+-Data Analysis
 Once database is complete , the following is done:
 
 
